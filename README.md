@@ -1,6 +1,7 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portafolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+![portafolio_image](https://github.com/user-attachments/assets/2f81ec27-eb70-4a25-a538-5405d0f9b931)
+
 ## Herramientas utilizadas:
 
 * HTML
@@ -11,6 +12,6 @@
 
 ## Hecho por:
 
-###Ana García
+###Jairo Restrepo
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/jairespe/
